@@ -1,2 +1,2 @@
-# GlobalGameJam2020
-"Make a game in a weekend" in one of the largest organized coding event worldwide
+# GGJ2020
+Space Jammers team project for Global Game Jam 2020!
